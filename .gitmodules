@@ -1,0 +1,3 @@
+[submodule "talks/ossmWorkshop"]
+	path = talks/ossmWorkshop
+	url = https://github.com/brian-avery/lab-ossm.git
