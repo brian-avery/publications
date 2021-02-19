@@ -11,7 +11,7 @@ This talk was given with Eric Van Norman at Istiocon 2021 with the summary:
 
 ### Istio Product Security Working Group - What is it and why it’s important
 
-**Slides:**
+**Slides:** [Istio_Product_Security_Working_Group](./2021-02-Istio_Product_Security_Working_Group-What_It_is_And_Why_its_Important.pptx)
 
 **Recording:**
 
