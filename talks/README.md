@@ -18,16 +18,13 @@ This talk was given with Eric Van Norman at Istiocon 2021 with the summary:
 This talk was given with Jacob Delgado at Istiocon 2021 with the summary: 
 
 > The Istio Product Security Working Group operates behind a bit of secrecy given the nature of the group’s work; mostly triaging security reports and threats. In 2020, there were over 11 security bulletins released that spanned from Istio 1.3 to Istio 1.8. In this talk, we will explain why the group was created, how it operates, and its mission to make Istio more secure.
-
-Namely, we will discuss:
-
-    A brief history of how the group was formed
-    Why it was necessary for the group to be created
-    A look at Istio security vulnerabilities in 2020
-    How we triage security reports and fix them
-    Pro-active measures the group is working on to make Istio more secure
-
-Please join us to learn about the responsibilities of the Product Security Working Group and how to stay informed about the security of your environments.
+> Namely, we will discuss:
+> * A brief history of how the group was formed
+> * Why it was necessary for the group to be created
+> * A look at Istio security vulnerabilities in 2020
+> * How we triage security reports and fix them
+> * Pro-active measures the group is working on to make Istio more secure
+> * Please join us to learn about the responsibilities of the Product Security Working Group and how to stay informed about the security of your environments.
 
 ### Introduction to Istio For New Contributors
 
@@ -38,7 +35,7 @@ Please join us to learn about the responsibilities of the Product Security Worki
 This talk was first given with Neeraj Poddar and Jason van Brackel for GovHackWeek. The goal was to help individuals interested in the even to help get started working on Istio. 
 
 ### OpenShift Service Mesh in Action Workshop
-**Slides:** 
+**Slides:** None
 
 **Content:** [lab-ossm](https://github.com/brian-avery/lab-ossm)
 
