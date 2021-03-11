@@ -3,7 +3,7 @@
 ### Set Sail for a Ship_Shape Istio Release
 
 **Slides:**
-[2021-02-Set_Sail_For_A_Ship-Shape_Istio_release.pptx](./2021-02-Set_Sail_For_A_Ship-Shape_Istio_release.pptx)
+[2021-02-Set_Sail_For_A_Ship-Shape_Istio_release.pptx](https://github.com/brian-avery/publications/edit/master/talks/2021-02-Set_Sail_For_A_Ship-Shape_Istio_release.pptx)
 
 This talk was given with Eric Van Norman at Istiocon 2021 with the summary:
 
@@ -11,7 +11,7 @@ This talk was given with Eric Van Norman at Istiocon 2021 with the summary:
 
 ### Istio Product Security Working Group - What is it and why it’s important
 
-**Slides:** [Istio_Product_Security_Working_Group](./2021-02-Istio_Product_Security_Working_Group-What_It_is_And_Why_its_Important.pptx)
+**Slides:** [Istio_Product_Security_Working_Group](https://github.com/brian-avery/publications/edit/master/talks/2021-02-Istio_Product_Security_Working_Group-What_It_is_And_Why_its_Important.pptx)
 
 **Recording:**
 
@@ -28,7 +28,7 @@ This talk was given with Jacob Delgado at Istiocon 2021 with the summary:
 
 ### Introduction to Istio For New Contributors
 
-**Slides:** [2020-10-GovHackWeek-Introduction_to_Istio_For_New_Contributors.pptx](./2020-10-GovHackWeek-Introduction_to_Istio_For_New_Contributors.pptx)
+**Slides:** [2020-10-GovHackWeek-Introduction_to_Istio_For_New_Contributors.pptx](https://github.com/brian-avery/publications/edit/master/talks/2020-10-GovHackWeek-Introduction_to_Istio_For_New_Contributors.pptx)
 
 **Recording:** https://www.youtube.com/watch?v=CKYToYYwEmQ
 
